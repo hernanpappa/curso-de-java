@@ -1,0 +1,4 @@
+Los paquetes son grupos de clases relacionadas entre si por una finalidad o herencia.
+Usar paquetes nos resuelve el conflicto de nombres. En un proyecto podemos tener 2 o mas clases del mismo
+nombre en distintos paquetes. Con los paquetes podemos establecer privilegios de acceso para tener aplicaciones
+mas robustas y seguras.

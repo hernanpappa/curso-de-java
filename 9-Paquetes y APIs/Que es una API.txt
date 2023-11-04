@@ -1,0 +1,2 @@
+Una API es una clase que no creamos nosotros, y que ya esta creada por alguien mas. Una API es lo mismo que una libreria.
+La API mas conocida es la API de Java. En el siguiente link podremos verla https://docs.oracle.com/javase/7/docs/api/
